@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-king889",
-  "commit": "f306e3fa37f606594be37272d0416cab528e6adc",
-  "score": 46,
+  "commit": "e164cc77107fa401156ec5ccdfa46404eb69a0b7",
+  "score": 48,
   "totalScore": 110,
   "exercises": [
     {
@@ -331,16 +331,16 @@
     {
       "name": "quiz2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "options1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "options2",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "king889",
-  "runId": "38335227531",
+  "runId": "38848905532",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
